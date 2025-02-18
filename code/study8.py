@@ -1,0 +1,17 @@
+print(-3//2)
+print(6%2)
+print(divmod(3,2))
+x=-520
+print(abs(x))
+y=1+2j
+print(abs(y))
+print(int(9.99))
+print(float(520))
+print(float('14'))
+print(float('+1E6'))
+print(float('-1E06'))
+p=1+2j
+print(p)
+print('1+2j')
+print(pow(2,3))
+print(2**-3)

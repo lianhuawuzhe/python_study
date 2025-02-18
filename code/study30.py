@@ -1,0 +1,15 @@
+# year=2010
+# print('lianhua工作室成立于{}年'.format(year))
+# print('1+2={}，2的平方是{}，3的立方是{}'.format(1+2,2*2,3*3*3))
+# print('{1}看到{0}就很激动！'.format('莲华','漂亮的小姐姐'))
+# print('{0}{0}{1}{1}'.format('是','非'))
+# print('我叫{name}，我爱{fav}'.format(fav='python',name='lianhua'))
+# print('{},{},{}'.format(1,{},2))
+# print('{},{{}},{}'.format (1,2))
+
+print('{:^10}'.format(250))
+print('{1:>10}{0:<10}'.format(520,250))
+print('{:010}'.format(-520))
+# print('{:010}'.format('lianhua'))
+print('{1:%>10}{0:%<10}'.format(520,250))
+print('{:0=10}'.format(-520))

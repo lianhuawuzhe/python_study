@@ -1,0 +1,16 @@
+rhyme=[1,2,3,4,5,'上山打老虎']
+# print(rhyme)
+# for each in rhyme:
+#     print(each)
+# print(rhyme[4])
+# length=len(rhyme)
+# print(rhyme[length-1])
+# print(rhyme[-1])
+print(rhyme[0:3])
+print(rhyme[3:6])
+print(rhyme[:])
+print(rhyme[2:])
+print(rhyme[0:6:2])
+print(rhyme[::2])
+print(rhyme[::-2])
+print(rhyme[::-1])

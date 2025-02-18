@@ -1,6 +1,6 @@
 [TOC]
 
-# pytohn学习
+# python学习
 
 ## 1.用python设计第一个游戏
 
